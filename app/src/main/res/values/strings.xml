@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Amoedo_Cristina_ex3tAdultos</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log Out</string>
+    <string name="acceso_correcto">Acceso Correcto</string>
+    <string name="title">Lista de la compra</string>
+    <string name="num_counters">Número de contadores:</string>
+    <string name="incrementar">Incrementar</string>
+    <string name="decrementar">Decrementar</string>
+    <string name="show">Mostrar</string>
+    <string name="add">Añadir</string>
+    <string name="close">Close</string>
+    <string name="cesta">Cesta: </string>
+    <string name="contadores">Contadores</string>
+</resources>
