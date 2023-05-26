@@ -41,7 +41,7 @@ fun LoginBlock(
     OutlinedTextField(
         value = emailString, onValueChange = { emailString = it.trim() },
         label = { Text(text = "Email") },
-        isError = logginError
+        isError = !emailString.isValidEmail() || logginError
     )
     OutlinedTextField(
         value = passwordString, onValueChange = { passwordString = it },
